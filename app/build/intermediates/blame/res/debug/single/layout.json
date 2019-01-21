@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\haik_SDKV3.1.2\\SDK_AndroidStudio_3_1_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_activity.xml",
+        "source": "D:\\haik_SDKV3.1.2\\SDK_AndroidStudio_3_1_2\\app\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "D:\\haik_SDKV3.1.2\\SDK_AndroidStudio_3_1_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\live_activity.xml",
+        "source": "D:\\haik_SDKV3.1.2\\SDK_AndroidStudio_3_1_2\\app\\src\\main\\res\\layout\\live_activity.xml"
+    },
+    {
+        "merged": "D:\\haik_SDKV3.1.2\\SDK_AndroidStudio_3_1_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playback_activity.xml",
+        "source": "D:\\haik_SDKV3.1.2\\SDK_AndroidStudio_3_1_2\\app\\src\\main\\res\\layout\\playback_activity.xml"
+    },
+    {
+        "merged": "D:\\haik_SDKV3.1.2\\SDK_AndroidStudio_3_1_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resource_list_activity.xml",
+        "source": "D:\\haik_SDKV3.1.2\\SDK_AndroidStudio_3_1_2\\app\\src\\main\\res\\layout\\resource_list_activity.xml"
+    },
+    {
+        "merged": "D:\\haik_SDKV3.1.2\\SDK_AndroidStudio_3_1_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resource_item_layout.xml",
+        "source": "D:\\haik_SDKV3.1.2\\SDK_AndroidStudio_3_1_2\\app\\src\\main\\res\\layout\\resource_item_layout.xml"
+    }
+]

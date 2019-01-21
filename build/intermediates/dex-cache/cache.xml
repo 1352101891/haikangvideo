@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\haik_SDKV3.1.2\SDK_AndroidStudio_3_1_2\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\haik_SDKV3.1.2\SDK_AndroidStudio_3_1_2\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_077de607d7833649e438fc995cb6000204d5d9c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\haik_SDKV3.1.2\SDK_AndroidStudio_3_1_2\app\libs\MCRSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb4094212801189f09dd6815febdb1bfe3744646">
+        <dex dex="D:\haik_SDKV3.1.2\SDK_AndroidStudio_3_1_2\app\build\intermediates\pre-dexed\debug\MCRSDK_8743a79035b3983e0bbd10e4fedebeb32fc298f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\haik_SDKV3.1.2\SDK_AndroidStudio_3_1_2\app\libs\ecs.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7886847106f8d5b70fecd98969018b9901099d9c">
+        <dex dex="D:\haik_SDKV3.1.2\SDK_AndroidStudio_3_1_2\app\build\intermediates\pre-dexed\debug\ecs_a178946fb4f4cafd5b5a6946f3443489c071edfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\haik_SDKV3.1.2\SDK_AndroidStudio_3_1_2\app\libs\MediaPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5311ba48c7b35a67ab0da8bf934729b278f02399">
+        <dex dex="D:\haik_SDKV3.1.2\SDK_AndroidStudio_3_1_2\app\build\intermediates\pre-dexed\debug\MediaPlayer_2569d4bff79711474d8d6cd79fb92164bc2b5c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\haik_SDKV3.1.2\SDK_AndroidStudio_3_1_2\app\libs\vmsnetsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49f68bb9bc30b220a90a4c12a899961a8c1cf80e">
+        <dex dex="D:\haik_SDKV3.1.2\SDK_AndroidStudio_3_1_2\app\build\intermediates\pre-dexed\debug\vmsnetsdk_db854b0439abfce2e50ce841a063f7bfe8d7bde6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_studio_sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\haik_SDKV3.1.2\SDK_AndroidStudio_3_1_2\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_14893fb9d9b85cf12b6d49f0e3142072f9556362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\haik_SDKV3.1.2\SDK_AndroidStudio_3_1_2\app\libs\PlayerSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81e02ae2648110ecf4959639418b2e755a8d8eac">
+        <dex dex="D:\haik_SDKV3.1.2\SDK_AndroidStudio_3_1_2\app\build\intermediates\pre-dexed\debug\PlayerSDK_188211243f36de7e464be9ff9621f280701356e8.jar" />
+    </item>
+
+</items>

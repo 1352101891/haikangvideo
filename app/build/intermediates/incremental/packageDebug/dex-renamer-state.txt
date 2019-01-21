@@ -1,0 +1,4 @@
+#Fri Jan 18 18:14:15 CST 2019
+base.0=D\:\\haik_SDKV3.1.2\\SDK_AndroidStudio_3_1_2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\haik_SDKV3.1.2\\SDK_AndroidStudio_3_1_2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
